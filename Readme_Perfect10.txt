@@ -6,3 +6,4 @@ Work in progress:
     - Economic factors (House prices and location to cross reference it with the other datasets)
 
 Good luck to us!
+Question x: Does proximity to manufacturing facility have an impact on life expectancy
