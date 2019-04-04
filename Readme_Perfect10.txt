@@ -6,3 +6,5 @@ Work in progress:
     - Economic factors (House prices and location to cross reference it with the other datasets)
 
 Good luck to us!
+
+Ivan's Question: "Is the data representative enough?"
