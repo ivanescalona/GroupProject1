@@ -8,3 +8,4 @@ Work in progress:
 Good luck to us!
 
 Ivan's Question: "Is the data representative enough?"
+Question x: Does proximity to manufacturing facility have an impact on life expectancy
