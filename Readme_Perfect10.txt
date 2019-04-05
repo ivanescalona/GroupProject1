@@ -2,8 +2,8 @@ Data sets we are using for the project:
 
 Work in progress:
     - Pollution https://www.kaggle.com/jaseibert/us-facilitylevel-air-pollution-20102014
-    - Health (Life expectancy)
-    - Economic factors (House prices and location to cross reference it with the other datasets)
+    - Health http://ghdx.healthdata.org/us-data (United States Life Expectancy and Age-specific Mortality Risk by County 1980-2014)
+    - Economic factors (https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations)
 
 Good luck to us!
 
